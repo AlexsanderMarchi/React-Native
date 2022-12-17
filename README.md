@@ -1,4 +1,8 @@
-  <h1 href="#clipboard-about"> About </h1>
+  <h1 href="#clipboard-about"> React-Native </h1>
+
+  <p align="center">
+    <img src="SomeApps.jpg" alt="SnakeGame"/>
+  </p>
 
   ## :clipboard: About:
   Here I show my developments using React-Native. Most of them are studies that I developed at class (App Development). I started learning how to use Object-oriented programming (POO) in React Native to created a Calculator. Then I started using hooks and style sheet (Similar to CSS). My first app for real, It's 'meu perfil' that I use Flatlist and useContext to save the changes. However, in the next apps I had to make it save the data even if I close the app. So I learned how to use the data base and storage in the Firebase platform.
