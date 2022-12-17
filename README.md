@@ -2,6 +2,7 @@
 
   <p align="center">
     <img src="SomeApps.png" alt="SnakeGame"/>
+    <br>
   </p>
 
   ## :clipboard: About:
