@@ -1,7 +1,7 @@
-  <h1 href="#clipboard-about"> React-Native </h1>
+  <h1 align="center" href="#clipboard-about"> React-Native </h1>
 
   <p align="center">
-    <img src="SomeApps.jpg" alt="SnakeGame"/>
+    <img src="SomeApps.png" alt="SnakeGame"/>
   </p>
 
   ## :clipboard: About:
